@@ -27,4 +27,4 @@ Though our work will be contained here, our primary means of communication will 
 
 All documents are written in the [markdown](https://help.github.com/articles/markdown-basics) format.
 
-Modifications by CCEG members and pull requests from others should only be done with regards to the first phase of documentation and analysis. The mailing list will be the primary means of coordination during the second phase and as such all contributions, thoughts, and opinions should be brought up there.
+Modifications by CCEG members and pull requests from others should only be done with regards to the first phase of documentation and analysis. The mailing list will be the primary means of coordination during the second phase and as such all contributions, thoughts, and opinions should be discussed there.

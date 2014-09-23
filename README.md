@@ -12,12 +12,12 @@ Our analysis will reside here in this repository. It will include a discussion o
 
 ## Models
 
-* DeadEnds
-* GEDCOM
-* GEDCOM X
-* GenTech
-* GRAMPS
-* STEMMA
+* [DeadEnds](deadends)
+* [GEDCOM](gedcom)
+* [GEDCOM X](gedcom-x)
+* [GenTech](gentech)
+* [GRAMPS](gramps)
+* [STEMMA](stemma)
 
 ## Contributing
 

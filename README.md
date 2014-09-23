@@ -8,7 +8,7 @@ The [directives](https://github.com/fhiso/core-concepts-eg/blob/master/DIRECTIVE
 > 
 > The CCEG shall draw on this research to reach a consensus on the broad manner in which these concepts are to be modelled in a future FHISO standard. Consideration shall be given to compatibility with existing data models (including GEDCOM) and the likely requirements for forwards compatibility. Areas requiring further research shall be identified, as should potential points of extensibility. Particular attention should be paid to those decisions likely to effect the work of other technical groups.
 
-Our analysis will reside here in this repository and will be performed in two phases. First, we will document and analyze the strengths and weaknesses of each model with regards to persons, events, and relationships. Then we will  generate a formal recommendation regarding how FHISO should model these concepts.
+Our analysis will reside here in this repository and will be performed in two phases. First we will document and analyze the strengths and weaknesses of each model with regards to persons, events, and relationships. Then we will generate a project proposal for future work including "recommendations on major descisions" regarding the core concepts (sections 4.1 and 4.2 of the [O&PM](http://fhiso.org/tsc-opm/)).
 
 ## Models
 
@@ -27,4 +27,4 @@ Though our work will be contained here, our primary means of communication will 
 
 All documents are written in the [markdown](https://help.github.com/articles/markdown-basics) format.
 
-Modifications by CCEG members and pull requests from others should only be done with regards to the first phase of documentation and analysis. The mailing list will be the primary means of coordination during the second phase and as such all contributions, thoughts, and opinions should be discussed there.
+Modifications by CCEG members and pull requests from others should only be done with regards to the first phase of documentation and analysis. The mailing list will be the primary means of coordination during the second phase and as such all contributions should be discussed there.

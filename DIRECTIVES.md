@@ -111,9 +111,11 @@ of the CCEG Directives but is appended to them for convenience.
 A.1.  Members
 -------------
 
-Nick Matthews (initial member)
-Thomas Wetmore (initial member)
-Justin York (initial member)
+* Constance Horne (initial associate member)
+* Nick Matthews (initial member)
+* Jan Murphy (initial member)
+* Thomas Wetmore (former initial member)
+* Justin York (initial member & coordinator)
 
 A.2.  Assigned CFPSs
 --------------------

@@ -13,11 +13,18 @@ Our analysis will reside here in this repository and will be performed in two ph
 ## Models
 
 * [DeadEnds](deadends)
+* [FamilySearch](familysearch)
+* [findmypast](findmypast)
 * [GEDCOM](gedcom)
 * [GEDCOM X](gedcom-x)
+* [GeneaNet](geneanet)
+* [Geni](geni)
 * [GenTech](gentech)
 * [GRAMPS](gramps)
+* [MyHeritage](myheritage)
 * [STEMMA](stemma)
+* [WeRelate](werelate)
+* [WikiTree](wikitree)
 
 ## Questions
 

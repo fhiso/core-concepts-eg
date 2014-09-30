@@ -19,6 +19,23 @@ Our analysis will reside here in this repository and will be performed in two ph
 * [GRAMPS](gramps)
 * [STEMMA](stemma)
 
+## Questions
+
+This is a list of questions worth considering when documenting and analyzing the models listed above. It is not meant to be complete.
+
+* Are relationships implicit from a family object (as per GEDCOM) or are the explicit links for types of relation?
+* How do you cope with properties that change with time?
+* Do individuals have properties directly, or can they only be expressed in events?
+* Can events pertain to places instead of persons?
+* Is there a difference between an "implicit" event (e.g. mention of a person implies their birth) and one explicitly described?
+* If you have explicit relationship links, how (if at all) are they related to roles in events?
+* What is the scope of event roles: are they defined per event type, or is a mother a mother independent of the event type?
+* How are illegitimacy, adoption, same-sex marriage and polygamy handled?
+* Which entities and properties are extensible?
+* Should there be a way of describing the characteristics of vendor-extension properties, such as that a baptism date is often a reasonable approximation to a birth?
+* Can a system make assumptions about the ordering of certain events?  If so, what happens if evidence places them out of order?
+* Is there a notion of states (e.g. marriage) that are initiated and concluded by events?
+
 ## Contributing
 
 Members of the CCEG are granted rights to modify anything in this repository. If you are not a member of the CCEG, or not even a member of [FHISO](http://fhiso.org/), you may still contribute by [forking](https://help.github.com/articles/fork-a-repo) this repository, modifying your copy, and then submitting a [pull request](https://help.github.com/articles/using-pull-requests).

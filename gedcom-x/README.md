@@ -1,6 +1,6 @@
 # GEDCOM X
 
-The information here was obtained from the [GEDCOM-X spec](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md).
+The full GEDCOM-X spec is available at https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md.
 
 ## Core Data Types
 

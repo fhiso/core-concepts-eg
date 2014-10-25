@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="15cm" height="20cm" viewBox="316 10 290 396" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="340" y="82.3334" width="100.55" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="340" y="82.3334" width="100.55" height="20"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="390.275" y="90.3334">Person</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="390.275" y="98.3334">extends Subject, Conclusion</text>
+    <rect style="fill: #ffffff" x="340" y="102.333" width="100.55" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="340" y="102.333" width="100.55" height="36"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="344.5" cy="108.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="110.333">private</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385.45" y="110.333">boolean</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="344.5" cy="116.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="118.333">gender</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385.45" y="118.333">Gender</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="344.5" cy="124.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="126.333">names</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385.45" y="126.333">Name[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="344.5" cy="132.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="134.333">facts</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385.45" y="134.333">Fact[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="163.333" width="103" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="480" y="163.333" width="103" height="20"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="531.5" y="171.333">Fact</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="531.5" y="179.333">extends Conclusion</text>
+    <rect style="fill: #ffffff" x="480" y="183.333" width="103" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="480" y="183.333" width="103" height="44"/>
+    <ellipse style="fill: #000000" cx="484.5" cy="189.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="191.333">type</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.15" y="191.333">FactType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="484.5" cy="197.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="199.333">date</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.15" y="199.333">Date</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="484.5" cy="205.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="207.333">place</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.15" y="207.333">Place</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="484.5" cy="213.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="215.333">value</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.15" y="215.333">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="484.5" cy="221.333" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="223.333">qualifier</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.15" y="223.333">Qualifier[]</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="440.55,132.333 460.275,132.333 460.275,173.333 480,173.333 "/>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="207" width="95.3" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="340" y="207" width="95.3" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="387.65" y="215">Qualifier</text>
+    <rect style="fill: #ffffff" x="340" y="219" width="95.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="340" y="219" width="95.3" height="20"/>
+    <ellipse style="fill: #000000" cx="344.5" cy="225" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="227">name</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="377.75" y="227">QualifierType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="344.5" cy="233" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="235">value</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="377.75" y="235">string</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="480,221.333 457.65,221.333 457.65,213 435.3,213 "/>
+  <g>
+    <rect style="fill: #ffffff" x="413.334" y="10" width="114.55" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="413.334" y="10" width="114.55" height="20"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="470.609" y="18">Relationship</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="470.609" y="26">extends Subject, Conclusion</text>
+    <rect style="fill: #ffffff" x="413.334" y="30" width="114.55" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="413.334" y="30" width="114.55" height="36"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="417.834" cy="36" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="421.834" y="38">type</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="458.784" y="38">RelationshipType</text>
+    <ellipse style="fill: #0000ff" cx="417.834" cy="44" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="421.834" y="46">person1</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="458.784" y="46">Person</text>
+    <ellipse style="fill: #0000ff" cx="417.834" cy="52" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="421.834" y="54">person2</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="458.784" y="54">Person</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="417.834" cy="60" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="421.834" y="62">facts</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="458.784" y="62">Fact[]</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="413.334,44 365.138,44 365.138,82.3334 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="413.334,52 390.275,52 390.275,82.3334 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="527.884,60 603,60 603,173.333 583,173.333 "/>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="250" width="100.55" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="480" y="250" width="100.55" height="20"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="530.275" y="258">Event</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="530.275" y="266">extends Subject, Concluison</text>
+    <rect style="fill: #ffffff" x="480" y="270" width="100.55" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="480" y="270" width="100.55" height="36"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="484.5" cy="276" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="278">type</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="517.75" y="278">EventType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="484.5" cy="284" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="286">date</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="517.75" y="286">Date</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="484.5" cy="292" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="294">place</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="517.75" y="294">Place</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="484.5" cy="300" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="302">roles</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="517.75" y="302">EventRole[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="256.334" width="83.75" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="340" y="256.334" width="83.75" height="20"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="381.875" y="264.334">EventRole</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="381.875" y="272.334">extends Conclusion</text>
+    <rect style="fill: #ffffff" x="340" y="276.334" width="83.75" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="340" y="276.334" width="83.75" height="28"/>
+    <ellipse style="fill: #000000" cx="344.5" cy="282.334" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="284.334">person</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385.45" y="284.334">Person</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="344.5" cy="290.334" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="292.334">type</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385.45" y="292.334">RoleType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="344.5" cy="298.334" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="300.334">details</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="385.45" y="300.334">string</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="480,300 451.875,300 451.875,266.334 423.75,266.334 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="340,282.334 316.152,282.334 316.152,92.3334 340,92.3334 "/>
+  <g>
+    <rect style="fill: #ffffff" x="340" y="156.667" width="79.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="340" y="156.667" width="79.9" height="20"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="379.95" y="164.667">Gender</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="379.95" y="172.667">extends Conclusion</text>
+    <rect style="fill: #ffffff" x="340" y="176.667" width="79.9" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="340" y="176.667" width="79.9" height="12"/>
+    <ellipse style="fill: #000000" cx="344.5" cy="182.667" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="348.5" y="184.667">type</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="373.9" y="184.667">GenderType</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="340,116.333 324,116.333 324,166.667 340,166.667 "/>
+  <g>
+    <rect style="fill: #ffffff" x="480" y="90" width="99.15" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="480" y="90" width="99.15" height="20"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="529.575" y="98">Name</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="529.575" y="106">extends Conclusion</text>
+    <rect style="fill: #ffffff" x="480" y="110" width="99.15" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="480" y="110" width="99.15" height="28"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="484.5" cy="116" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="118">type</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.15" y="118">NameType</text>
+    <ellipse style="fill: #000000" cx="484.5" cy="124" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="126">nameForms</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.15" y="126">NameForm[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="484.5" cy="132" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="488.5" y="134">date</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="533.15" y="134">Date</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="440.55,124.333 460.275,124.333 460.275,100 480,100 "/>
+  <g>
+    <rect style="fill: #ffffff" x="319" y="342" width="129.95" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="319" y="342" width="129.95" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="383.975" y="350">Conclusion</text>
+    <rect style="fill: #ffffff" x="319" y="354" width="129.95" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="319" y="354" width="129.95" height="52"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="323.5" cy="360" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="327.5" y="362">id</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="376" y="362">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="323.5" cy="368" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="327.5" y="370">lang</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="376" y="370">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="323.5" cy="376" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="327.5" y="378">sources</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="376" y="378">SourceReference[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="323.5" cy="384" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="327.5" y="386">analysis</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="376" y="386">Document</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="323.5" cy="392" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="327.5" y="394">notes</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="376" y="394">Note[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="323.5" cy="400" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="327.5" y="402">confidence</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="376" y="402">ConfidenceLevel</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="464" y="342" width="141.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="464" y="342" width="141.5" height="20"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="534.75" y="350">Subject</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="534.75" y="358">extends Conclusion</text>
+    <rect style="fill: #ffffff" x="464" y="362" width="141.5" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="464" y="362" width="141.5" height="44"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="468.5" cy="368" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.5" y="370">extracted</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="524.85" y="370">boolean</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="468.5" cy="376" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.5" y="378">evidence</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="524.85" y="378">EvidenceReference[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="468.5" cy="384" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.5" y="386">media</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="524.85" y="386">SourceReference[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="468.5" cy="392" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.5" y="394">identifiers</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="524.85" y="394">Identifier[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="468.5" cy="400" rx="2" ry="2"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="472.5" y="402">attribution</text>
+    <text font-size="6.4" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="524.85" y="402">Attribution</text>
+  </g>
+  <text font-size="7.90222" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:italic;font-weight:normal" x="434.75" y="332.362">
+    <tspan x="434.75" y="332.362">Base types</tspan>
+  </text>
+</svg>

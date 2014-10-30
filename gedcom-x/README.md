@@ -1,18 +1,20 @@
 # GEDCOM X
 
-GEDCOM X is a set of open specifications for exchanging genealogical data. The proejct is sponsored by FamilySearch. The [full spec](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) is available on GitHub.
+GEDCOM X is a set of open specifications for exchanging genealogical data. The proejct is sponsored by FamilySearch.
 
 ### Table of Contents
 
-1. Model
-    1. Person
-    2. Relationship
-    3. Fact
-    4. Events 
-2. Use Cases
-3. Analysis
+1. [Model](#model)
+    1. [Person](#person)
+    2. [Relationship](#relationship)
+    3. [Fact](#fact)
+    4. [Event](#event)
+2. [Use Cases](#use-cases)
+3. [Analysis](#analysis)
 
 ## Model
+
+The [full GEDCOM X spec](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md) is available on GitHub. We have also generated a [diagram of the core concepts](Data_Model.svg).
 
 ### Person
 

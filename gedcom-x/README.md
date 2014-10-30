@@ -27,8 +27,6 @@ gender | The gender of the person. | [`http://gedcomx.org/v1/Gender`](https://gi
 names | The names of the person. | List of [`http://gedcomx.org/v1/Name`](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#name-conclusion). Order is preserved. | OPTIONAL.  If more than one name is provided, names are assumed to be given in order of preference, with the most preferred name in the first position in the list.
 facts | The facts of the person. | List of [`http://gedcomx.org/v1/Fact`](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#fact-conclusion). Order is preserved. | OPTIONAL.
 
-#### Notes
-
 Facts are not events even though they have place and date attributes.
 
 Names are not facts.
@@ -43,8 +41,6 @@ type | Enumerated value identifying the type of the relationship. | [Enumerated 
 person1 | Reference to the first person in the relationship. | [URI](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#uri) | REQUIRED. MUST resolve to an instance of [`http://gedcomx.org/v1/Person`](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#person)
 person2 | Reference to the second person in the relationship. | [URI](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#uri) | REQUIRED. MUST resolve to an instance of [`http://gedcomx.org/v1/Person`](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#person)
 facts | The facts about the relationship. | List of [`http://gedcomx.org/v1/Fact`](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#fact-conclusion). Order is preserved. | OPTIONAL.
-
-#### Notes
 
 Relationships are strictly binary (limited to only two people).
 
@@ -66,8 +62,6 @@ place | A reference to the place applicable to this fact. | [`http://gedcomx.org
 value | The value of the fact. | string | OPTIONAL.
 qualifiers | Qualifiers to add additional details about the fact. | List of [http://gedcomx.org/v1/Qualifier](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#qualifier) | OPTIONAL. If present, use of a [known fact qualifier](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#known-fact-qualifier) is RECOMMENDED.
 
-#### Notes
-
 Facts can only be associated with persons and relationships.
 
 Some information that is "presumed to be true" about persons, such as names and gender, are not facts.
@@ -84,13 +78,9 @@ date | The date of the event. | [`http://gedcomx.org/v1/Date`](https://github.co
 place | A reference to the place applicable to this event. | [`http://gedcomx.org/v1/PlaceReference`](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#conclusion-place-reference) | OPTIONAL.
 roles | Information about how persons participated in the event. | List of [`http://gedcomx.org/v1/EventRole`](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#conclusion-event-role). Order is preserved. | OPTIONAL.
 
-#### Notes
-
 Events are very similar to facts. The first major difference is that events are top-level entities associated with one or many people via roles while facts are not top-level and are directly associated to only one person or relationship. Relationships and facts can be inferred from events but there is no direct association between them. Events and facts have the same enumerated list of types. Read more about [events and facts](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#events-vs-facts).
 
 The concept of events appears to not be well developed. It is said that relationships can be inferred from events, but the event roles are not described well enough to make it obvious how that could happen. [Role types](https://github.com/FamilySearch/gedcomx/blob/master/specifications/conceptual-model-specification.md#3151-known-role-types) are currently limited to `Principal`, `Participant`, `Official`, and `Witness`. The person being born would be the `Principal`, but what about the parents? The spec gives no direction on this. It seems as though they should be modeled with the role of `Particpant` but you could also argue `Witness`. More explicit roles such as `Child`, `Parent`, `Spouse`, etc would be helpful.
-
-View a [diagram](Data_Model.svg) of the core data model.
 
 ## Use Cases
 

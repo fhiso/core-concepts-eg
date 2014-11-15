@@ -99,6 +99,51 @@ and relationships.
       "death": {
         "date": "November 1518"
       }
+    },
+    {
+      "id": 9,
+      "name": "Anne Boleyn",
+      "sex": "Female",
+      "birth": {
+        "date": "1501",
+        "place": "Blickling Hall, Norfolk or Hever Castle, Kent"
+      },
+      "death": {
+        "date": "19 May 1536",
+        "place": "Tower of London, London, England"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Queen Elizabeth I",
+      "sex": "Female",
+      "birth": {
+        "date": "7 September 1533"
+      },
+      "death": {
+        "date": "24 March 1603"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Henry, Duke of Cornwall",
+      "sex": "Male",
+      "birth": {
+        "date": "August/September 1534"
+      },
+      "death": {
+        "date": "August/September 1534"
+      }
+    },
+    {
+      "id": 12,
+      "sex": "Male",
+      "birth": {
+        "date": "29 January 1536"
+      },
+      "death": {
+        "date": "29 January 1536"
+      }
     }
   ],
   "relationships": [
@@ -149,6 +194,36 @@ and relationships.
       "father": 1,
       "mother": 2,
       "child": 8
+    },
+    {
+      "type": "Couple",
+      "spouse1": 1,
+      "spouse2": 9,
+      "marriage": {
+        "date": "25 January 1533",
+        "place": "Westminster Abbey, Westminster, London, England"
+      },
+      "annullment": {
+        "date": "17 May 1536"
+      }
+    },
+    {
+      "type": "Child",
+      "father": 1,
+      "mother": 2,
+      "child": 10
+    },
+    {
+      "type": "Child",
+      "father": 1,
+      "mother": 2,
+      "child": 11
+    },
+    {
+      "type": "Child",
+      "father": 1,
+      "mother": 2,
+      "child": 12
     }
   ]
 }

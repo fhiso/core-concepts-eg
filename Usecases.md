@@ -6,26 +6,6 @@ The list is not meant to be complete in terms of all possibilities but is intend
 to be complete in its exercise of the data model's abilities to handle persons, events,
 and relationships.
 
-### [Adam and Eve](http://en.wikipedia.org/wiki/Family_tree_of_the_Bible#Adam_to_Noah)
-
-    {
-      "persons": [
-        {
-          "name": "Adam"
-        },
-        {
-          "name": "Eve"
-        }
-      ],
-      "relationships": [
-        {
-          "type": "Couple",
-          "spouse1": "Adam",
-          "spouse2": "Eve"
-        }
-      ]
-    }
-
 ### [Henry VIII](http://en.wikipedia.org/wiki/Henry_VIII_of_England#Marriages_and_issue)
 
     {

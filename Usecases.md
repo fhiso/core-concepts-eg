@@ -13,6 +13,7 @@ and relationships.
         {
           "id": 1,
           "name": "Henry VIII of England",
+          "sex": "Male",
           "birth": {
             "date": "28 June 1491",
             "place": "Greenwich Palace, Greenwich, London, England"
@@ -25,6 +26,7 @@ and relationships.
         {
           "id": 2,
           "name": "Catherine of Aragon",
+          "sex": "Female",
           "birth": {
             "date": "16 December 1485",
             "place": "Archbishop's Palace, Alcalá de Henares, Spain"
@@ -36,6 +38,7 @@ and relationships.
         },
         {
           "id": 3,
+          "sex": "Female",
           "birth": {
             "date": "31 January 1510"
           },
@@ -46,11 +49,54 @@ and relationships.
         {
           "id": 4,
           "name": "Henry, Duke of Cornwall",
+          "sex": "Male",
           "birth": {
             "date": "1 January 1511"
           },
           "death": {
             "date": "22 February 1511"
+          }
+        },
+        {
+          "id": 5,
+          "sex": "Male",
+          "birth": {
+            "date": "November 1513"
+          },
+          "death": {
+            "date": "November 1513"
+          }
+        },
+        {
+          "id": 6,
+          "sex": "Male",
+          "birth": {
+            "date": "December 1514"
+          },
+          "death": {
+            "date": "December 1514"
+          }
+        },
+        {
+          "id": 7,
+          "name": "Queen Mary I",
+          "sex": "Female",
+          "birth": {
+            "date": "18 February 1516"
+          },
+          "death": {
+            "date": "17 November 1558"
+          }
+        },
+        {
+          "id": 8,
+          "name": "Queen Mary I",
+          "sex": "Female",
+          "birth": {
+            "date": "November 1518"
+          },
+          "death": {
+            "date": "November 1518"
           }
         }
       ],
@@ -78,6 +124,30 @@ and relationships.
           "father": 1,
           "mother": 2,
           "child": 4
+        },
+        {
+          "type": "Child",
+          "father": 1,
+          "mother": 2,
+          "child": 5
+        },
+        {
+          "type": "Child",
+          "father": 1,
+          "mother": 2,
+          "child": 6
+        },
+        {
+          "type": "Child",
+          "father": 1,
+          "mother": 2,
+          "child": 7
+        },
+        {
+          "type": "Child",
+          "father": 1,
+          "mother": 2,
+          "child": 8
         }
       ]
     }

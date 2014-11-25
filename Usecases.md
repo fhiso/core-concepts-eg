@@ -74,6 +74,19 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
             <li><a href="#son-2">[Unnamed Son]</a></li>
           <ul>
         </li>
+        <li>
+          <a href="#jane-seymour">Jane Seymour</a><br>
+          <em>Married</em>: 30 May 1536 in York Place, London, England
+          <ul>
+            <li><a href="#king-edward-vi">King Edward VI</a></li>
+          <ul>
+        </li>
+        <li>
+          <a href="#anne-of-cleves">Anne of Cleves</a><br>
+          <em>Married</em>: 6 January 1540<br>
+          <en>Annulled</em>: 9 July 1540
+          <em>No Children</em>
+        </li>
       </ul>
     </td>
   </tr>
@@ -282,6 +295,65 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
       <ul>
         <li><a href="#henry-viii">Henry VIII</a></li>
         <li><a href="#anne-boleyn">Anne Boleyn</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a name="jane-seymour"></a>
+      <p><strong>Jane Seymour</strong></p>
+      <em>Sex</em>: Female<br>
+      <em>Born</em>: 1508<br>
+      <em>Died</em>: 24 October 1537
+    </td>
+    <td>
+      <p><strong>Spouses and Children</strong></p>
+      <ul>
+        <li>
+          <a href="#henry-viii">Henry VIII</a><br>
+          <em>Married</em>: 30 May 1536 in York Place, London, England
+          <ul>
+            <li><a href="#king-edward-vi">King Edward VI</a></li>
+          <ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a name="king-edward-vi"></a>
+      <p><strong>King Edward VI</strong></p>
+      <em>Sex</em>: Male<br>
+      <em>Born</em>: 12 October 1537<br>
+      <em>Died</em>: 6 July 1553
+    </td>
+    <td>
+      <p><strong>Parents</strong></p>
+      <ul>
+        <li><a href="#henry-viii">Henry VIII</a></li>
+        <li><a href="#jane-seymour">Jane Seymour</a></li>
+      </ul>
+      <p><strong>Spouses</strong></p>
+      <em>Never Married</em>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a name="anne-of-cleves"></a>
+      <p><strong>Anne of Cleves</strong></p>
+      <em>Sex</em>: Female<br>
+      <em>Born</em>: 1508<br>
+      <em>Died</em>: 24 October 1537
+    </td>
+    <td>
+      <p><strong>Spouses and Children</strong></p>
+      <ul>
+        <li>
+          <a href="#henry-viii">Henry VIII</a><br>
+          <em>Married</em>: 6 January 1540<br>
+          <en>Annulled</em>: 9 July 1540
+          <em>No Children</em>
+        </li>
       </ul>
     </td>
   </tr>

@@ -40,7 +40,7 @@ __Purpose:__ Demonstrate how child relationships are modeled when the parents ar
 
 ## Data
 
-The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry_VIII_of_England#Marriages_and_issue) and his family.
+Data for the use cases was extracted from the Wikipedia articles on [Henry VIII](http://en.wikipedia.org/wiki/Henry_VIII_of_England#Marriages_and_issue) and his family.
 
 <table>
   <tr>

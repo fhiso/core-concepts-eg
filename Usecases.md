@@ -8,29 +8,35 @@ and relationships.
 
 Names, dates, and places are included for the sake of completeness and to see where they are stored in the models. However, the CCEG is not concerned with their formatting. In other words, we care about whether a person's birth facts are stored as an attribute of the person or as an attribute of a birth event that is connected to the person but we are not concerned with whether dates are formatted according to [ISO 8601](http://en.wikipedia.org/wiki/ISO_8601).
 
-## A Single Person
+### A Single Person
 
 __Description:__ Model <a href="#henry-viii">Henry VIII</a>, including his name, sex, vital events, and other personal data.
 
 __Purpose:__ Show how a single person is modeled, especially their vital events and personal data. Are vital events attached directly to the person as properties or indirectly via events? Are events treated differently than facts? How is the gender represented?
 
-## A Simple Family
+### A Simple Family
 
 __Description:__ Model the relationship between <a href="#henry-viii">Henry VIII</a>, his first wife <a href="#catherine-of-aragon">Catherine of Aragon</a>, and their children.
 
 __Purpose:__ Show how simple family relationships are modeled. How are spouses relationship modeled? Where are the marriage dates and places stored? Do children have separate relationships with each parent? Where are `biological` and `adopted` facts stored?
 
-## Multiple Marriages
+### Multiple Marriages
 
 __Description:__ Model the relationships between <a href="#henry-viii">Henry VIII</a> and all of his wives.
 
 __Purpose:__ Demonstrate how multiple marriage relationships are handled.
 
-## Never Married
+### Never Married
 
 __Description:__ Model the fact that <a href="#queen-elizabeth-1">Queen Elizabeth I</a> never married.
 
 __Purpose:__ To show if and how the models handle explicitly stating that a person never married despite reaching the appropriate age.
+
+### Child out of Wedlock
+
+__Description:__ Model the relationship between <a href="#henry-fitzroy">Henry FitzRoy</a> and his parents <a href="#henry-viii">Henry VIII</a> and <a href="#elizabeth-blount">Elizabeth Blount</a>.
+
+__Purpose:__ Demonstrate how child relationships are modeled when the parents are not married. Does the model imply that parents are married? Do the couples have a separate relationship? Does the absence of a relationship between the parents imply the child was born out of wedlock?
 
 ## Data
 
@@ -104,6 +110,10 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
           <em>Married</em>: 12 July 1543 in Hampton Court Palace, Surrey, England<br>
           <em>No Children</em>
         </li>
+      </ul>
+      <p><strong>Illigitimate Children</strong></p>
+      <ul>
+        <li><a href="#henry-fitzroy">Henry FitzRoy</a></li>
       </ul>
     </td>
   </tr>
@@ -411,6 +421,40 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
           <em>Married</em>: 12 July 1543 in Hampton Court Palace, Surrey, England<br>
           <em>No Children</em>
         </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a name="elizabeth-blount"></a>
+      <p><strong>Elizabeth Blount</strong></p>
+      <em>Sex</em>: Female<br>
+      <em>Born</em>: 1498/1502<br>
+      <em>Died</em>: 1539/1540
+    </td>
+    <td>
+      <p><strong>Children</strong></p>
+      <ul>
+        <li>
+          <a href="#henry-fitzroy">Henry FitzRoy</a>, illigitimate son of Henry VIII
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a name="henry-fitzroy"></a>
+      <p><strong>Henry FitzRoy, 1st Duke of Richmond and Somerset</strong></p>
+      <em>Sex</em>: Male<br>
+      <em>Born</em>: 15 June 1519<br>
+      <em>Died</em>: 23 July 1536<br>
+      <em>Illegitimate; acknowledged by Henry VIII in 1525</em>
+    </td>
+    <td>
+      <p><strong>Parents</strong></p>
+      <ul>
+        <li><a href="#henry-viii">Henry VIII</a></li>
+        <li><a href="#elizabeth-blount">Elizabeth Blount</a></li>
       </ul>
     </td>
   </tr>

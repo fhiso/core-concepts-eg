@@ -64,6 +64,16 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
             <li><a href="#daughter-2">[Unnamed Daughter]</a></li>
           <ul>
         </li>
+        <li>
+          <a href="#anne-boleyn">Anne Boleyn</a><br>
+          <em>Married</em>: 25 January 1533 in Westminster Abbey, Westminster, London, England<br>
+          <em>Annulled</em>: 17 May 1536
+          <ul>
+            <li><a href="#queen-elizabeth-1">Queen Elizabeth</a></li>
+            <li><a href="#henry-duke-of-cornwall-3">Henry, Duke of Cornwall</a></li>
+            <li><a href="#son-2">[Unnamed Son]</a></li>
+          <ul>
+        </li>
       </ul>
     </td>
   </tr>
@@ -217,7 +227,7 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
           <em>Married</em>: 25 January 1533 in Westminster Abbey, Westminster, London, England<br>
           <em>Annulled</em>: 17 May 1536
           <ul>
-            <li><a href="#queen-elizabeth-1">[Queen Elizabeth]</a></li>
+            <li><a href="#queen-elizabeth-1">Queen Elizabeth</a></li>
             <li><a href="#henry-duke-of-cornwall-3">Henry, Duke of Cornwall</a></li>
             <li><a href="#son-2">[Unnamed Son]</a></li>
           <ul>

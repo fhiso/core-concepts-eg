@@ -20,6 +20,12 @@ __Description:__ Model the relationship between <a href="#henry-viii">Henry VIII
 
 __Purpose:__ Show how simple family relationships are modeled. How are spouses relationship modeled? Where are the marriage dates and places stored? Do children have separate relationships with each parent? Where are `biological` and `adopted` facts stored?
 
+## Multiple Marriages
+
+__Description:__ Model the relationships between <a href="#henry-viii">Henry VIII</a> and all of his wives.
+
+__Purpose:__ Demonstrate how multiple marriage relationships are handled.
+
 ## Never Married
 
 __Description:__ Model the fact that <a href="#queen-elizabeth-1">Queen Elizabeth I</a> never married.
@@ -84,7 +90,18 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
         <li>
           <a href="#anne-of-cleves">Anne of Cleves</a><br>
           <em>Married</em>: 6 January 1540<br>
-          <en>Annulled</em>: 9 July 1540
+          <em>Annulled</em>: 9 July 1540<br>
+          <em>No Children</em>
+        </li>
+        <li>
+          <a href="#catherine-howard">Catherine Howard</a><br>
+          <em>Married</em>: 28 July 1540 in Oatlands Palace, Surrey, England<br>
+          <em>Annulled</em>: 23 November 1541<br>
+          <em>No Children</em>
+        </li>
+        <li>
+          <a href="#catherine-parr">Catherine Parr</a><br>
+          <em>Married</em>: 12 July 1543 in Hampton Court Palace, Surrey, England<br>
           <em>No Children</em>
         </li>
       </ul>
@@ -342,8 +359,8 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
       <a name="anne-of-cleves"></a>
       <p><strong>Anne of Cleves</strong></p>
       <em>Sex</em>: Female<br>
-      <em>Born</em>: 1508<br>
-      <em>Died</em>: 24 October 1537
+      <em>Born</em>: 22 September 1515<br>
+      <em>Died</em>: 16 July 1557
     </td>
     <td>
       <p><strong>Spouses and Children</strong></p>
@@ -351,7 +368,47 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
         <li>
           <a href="#henry-viii">Henry VIII</a><br>
           <em>Married</em>: 6 January 1540<br>
-          <en>Annulled</em>: 9 July 1540
+          <em>Annulled</em>: 9 July 1540<br>
+          <em>No Children</em>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a name="catherine-howard"></a>
+      <p><strong>Catherine Howard</strong></p>
+      <em>Sex</em>: Female<br>
+      <em>Born</em>: 1521<br>
+      <em>Died</em>: 13 February 1542<br>
+      <em>Beheaded</em>
+    </td>
+    <td>
+      <p><strong>Spouses and Children</strong></p>
+      <ul>
+        <li>
+          <a href="#henry-viii">Henry VIII</a><br>
+          <em>Married</em>: 28 July 1540 in Oatlands Palace, Surrey, England<br>
+          <em>Annulled</em>: 23 November 1541<br>
+          <em>No Children</em>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a name="catherine-parr"></a>
+      <p><strong>Catherine Parr</strong></p>
+      <em>Sex</em>: Female<br>
+      <em>Born</em>: 1512<br>
+      <em>Died</em>: 5 September 1548
+    </td>
+    <td>
+      <p><strong>Spouses and Children</strong></p>
+      <ul>
+        <li>
+          <a href="#henry-viii">Henry VIII</a><br>
+          <em>Married</em>: 12 July 1543 in Hampton Court Palace, Surrey, England<br>
           <em>No Children</em>
         </li>
       </ul>

@@ -10,15 +10,21 @@ Names, dates, and places are included for the sake of completeness and to see wh
 
 ## A Single Person
 
-__Description:__ Model Henry VIII, including his name, sex, vital events, and other personal data.
+__Description:__ Model <a href="#henry-viii">Henry VIII</a>, including his name, sex, vital events, and other personal data.
 
 __Purpose:__ Show how a single person is modeled, especially their vital events and personal data. Are vital events attached directly to the person as properties or indirectly via events? Are events treated differently than facts? How is the gender represented?
 
 ## A Simple Family
 
-__Description:__ Model the relationship between Henry VIII, his first wife Catherine of Aragon, and their children.
+__Description:__ Model the relationship between <a href="#henry-viii">Henry VIII</a>, his first wife <a href="#catherine-of-aragon">Catherine of Aragon</a>, and their children.
 
 __Purpose:__ Show how simple family relationships are modeled. How are spouses relationship modeled? Where are the marriage dates and places stored? Do children have separate relationships with each parent? Where are `biological` and `adopted` facts stored?
+
+## Never Married
+
+__Description:__ Model the fact that <a href="#queen-elizabeth-1">Queen Elizabeth I</a> never married.
+
+__Purpose:__ To show if and how the models handle explicitly stating that a person never married despite reaching the appropriate age.
 
 ## Data
 
@@ -191,6 +197,81 @@ The data for the use cases is of [Henry VIII](http://en.wikipedia.org/wiki/Henry
       <ul>
         <li><a href="#henry-viii">Henry VIII</a></li>
         <li><a href="#catherine-of-aragon">Catherine of Aragon</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a name="anne-boleyn"></a>
+      <p><strong>Anne Boleyn</strong></p>
+      <em>Sex</em>: Female<br>
+      <em>Born</em>: 1501/1507<br>
+      <em>Died</em>: 19 May 1536<br>
+      <em>Beheaded</em>
+    </td>
+    <td>
+      <p><strong>Spouses and Children</strong></p>
+      <ul>
+        <li>
+          <a href="#henry-viii">Henry VIII</a><br>
+          <em>Married</em>: 25 January 1533 in Westminster Abbey, Westminster, London, England<br>
+          <em>Annulled</em>: 17 May 1536
+          <ul>
+            <li><a href="#queen-elizabeth-1">[Queen Elizabeth]</a></li>
+            <li><a href="#henry-duke-of-cornwall-3">Henry, Duke of Cornwall</a></li>
+            <li><a href="#son-2">[Unnamed Son]</a></li>
+          <ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a name="queen-elizabeth-1"></a>
+      <p><strong>Queen Elizabeth I</strong></p>
+      <em>Sex</em>: Female<br>
+      <em>Born</em>: 7 September 1533<br>
+      <em>Died</em>: 24 March 1603
+    </td>
+    <td>
+      <p><strong>Parents</strong></p>
+      <ul>
+        <li><a href="#henry-viii">Henry VIII</a></li>
+        <li><a href="#anne-boleyn">Anne Boleyn</a></li>
+      </ul>
+      <p><strong>Spouses</strong></p>
+      <em>Never Married</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a name="henry-duke-of-cornwall-3"></a>
+      <p><strong>Henry, Duke of Cornwall</strong></p>
+      <em>Sex</em>: Male<br>
+      <em>Born</em>: August/September 1534<br>
+      <em>Died</em>: August/September 1534
+    </td>
+    <td>
+      <p><strong>Parents</strong></p>
+      <ul>
+        <li><a href="#henry-viii">Henry VIII</a></li>
+        <li><a href="#anne-boleyn">Anne Boleyn</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a name="son-2"></a>
+      <p><strong>[Unnamed Son]</strong></p>
+      <em>Sex</em>: Male<br>
+      <em>Born</em>: 29 January 1536<br>
+      <em>Died</em>: 29 January 1536
+    </td>
+    <td>
+      <p><strong>Parents</strong></p>
+      <ul>
+        <li><a href="#henry-viii">Henry VIII</a></li>
+        <li><a href="#anne-boleyn">Anne Boleyn</a></li>
       </ul>
     </td>
   </tr>

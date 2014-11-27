@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="26cm" height="17cm" viewBox="1 3 513 335" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="3" y="3.16666" width="76.25" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="3" y="3.16666" width="76.25" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="41.125" y="11.1667">Primary</text>
+    <rect style="fill: #ffffff" x="3" y="15.1667" width="76.25" height="32"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="3" y="15.1667" width="76.25" height="32"/>
+    <ellipse style="fill: #0000ff" cx="7.5" cy="20.6667" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="11.5" y="22.1667">handle</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="41.6" y="22.1667">ID</text>
+    <ellipse style="fill: #0000ff" cx="7.5" cy="27.6667" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="11.5" y="29.1667">change</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="41.6" y="29.1667">timestamp</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="7.5" cy="34.6667" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="11.5" y="36.1667">id</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="41.6" y="36.1667">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="7.5" cy="41.6667" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="11.5" y="43.1667">priv</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="41.6" y="43.1667">boolean</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="144.167" y="57" width="99.7" height="19"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="144.167" y="57" width="99.7" height="19"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="194.017" y="65">Person</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="194.017" y="72">extends Primary</text>
+    <rect style="fill: #ffffff" x="144.167" y="76" width="99.7" height="102"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="144.167" y="76" width="99.7" height="102"/>
+    <ellipse style="fill: #0000ff" cx="148.667" cy="81.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="83">gender</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="83">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="88.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="90">name</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="90">Name[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="95.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="97">eventref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="97">EventRef[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="102.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="104">lds_ord</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="104">LdsOrd[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="109.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="111">objref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="111">MediaRef[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="116.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="118">address</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="118">Address[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="123.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="125">attribute</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="125">Attribute[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="130.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="132">url</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="132">Url[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="137.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="139">childof</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="139">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="144.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="146">parentin</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="146">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="151.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="153">personref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="153">PersonRef[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="158.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="160">noteref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="160">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="165.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="167">citationref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="167">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="148.667" cy="172.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="152.667" y="174">tagref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.517" y="174">ID[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="144.5" y="224.666" width="106.4" height="19"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="144.5" y="224.666" width="106.4" height="19"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="197.7" y="232.666">Family</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="197.7" y="239.666">extends Primary</text>
+    <rect style="fill: #ffffff" x="144.5" y="243.666" width="106.4" height="81"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="144.5" y="243.666" width="106.4" height="81"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="249.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="250.666">rel</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="250.666">FamilyRelType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="256.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="257.666">father</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="257.666">ID</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="263.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="264.666">mother</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="264.666">ID</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="270.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="271.666">eventref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="271.666">EventRef[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="277.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="278.666">lds_ord</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="278.666">LdsOrd[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="284.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="285.666">objref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="285.666">MediaRef[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="291.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="292.666">childref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="292.666">ChildRef[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="298.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="299.666">attribute</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="299.666">Attribute[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="305.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="306.666">noteref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="306.666">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="312.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="313.666">citationref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="313.666">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="149" cy="319.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="153" y="320.666">tagref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="199.85" y="320.666">ID[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="392.416" y="77.5" width="96.35" height="19"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="392.416" y="77.5" width="96.35" height="19"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="440.591" y="85.5">Event</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="440.591" y="92.5">extends Primary</text>
+    <rect style="fill: #ffffff" x="392.416" y="96.5" width="96.35" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="392.416" y="96.5" width="96.35" height="60"/>
+    <ellipse style="fill: #0000ff" cx="396.916" cy="102" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.916" y="103.5">type</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.766" y="103.5">EventType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="396.916" cy="109" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.916" y="110.5">date</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.766" y="110.5">Date</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="396.916" cy="116" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.916" y="117.5">place</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.766" y="117.5">ID</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="396.916" cy="123" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.916" y="124.5">description</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.766" y="124.5">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="396.916" cy="130" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.916" y="131.5">noteref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.766" y="131.5">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="396.916" cy="137" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.916" y="138.5">citationref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.766" y="138.5">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="396.916" cy="144" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.916" y="145.5">objref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.766" y="145.5">MediaRef[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #0000ff" cx="396.916" cy="151" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.916" y="152.5">tagref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.766" y="152.5">ID[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="16.3333" y="117" width="96.35" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="16.3333" y="117" width="96.35" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="64.5083" y="125">LdsOrd</text>
+    <rect style="fill: #ffffff" x="16.3333" y="129" width="96.35" height="67"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="16.3333" y="129" width="96.35" height="67"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="20.8333" cy="134.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="136">priv</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="136">boolean</text>
+    <ellipse style="fill: #000000" cx="20.8333" cy="141.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="143">type</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="143">LdsOrdType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="20.8333" cy="148.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="150">date</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="150">Date</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="20.8333" cy="155.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="157">temple</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="157">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="20.8333" cy="162.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="164">place</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="164">ID</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="20.8333" cy="169.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="171">status</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="171">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="20.8333" cy="176.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="178">sealed_to</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="178">ID</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="20.8333" cy="183.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="185">noteref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="185">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="20.8333" cy="190.5" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="24.8333" y="192">citationref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="71.6833" y="192">ID[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="391.916" y="162.667" width="106.4" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="391.916" y="162.667" width="106.4" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="445.116" y="170.667">Attribute</text>
+    <rect style="fill: #ffffff" x="391.916" y="174.667" width="106.4" height="39"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="391.916" y="174.667" width="106.4" height="39"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="396.416" cy="180.167" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.416" y="181.667">priv</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.266" y="181.667">boolean</text>
+    <ellipse style="fill: #000000" cx="396.416" cy="187.167" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.416" y="188.667">type</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.266" y="188.667">AttributeType</text>
+    <ellipse style="fill: #000000" cx="396.416" cy="194.167" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.416" y="195.667">value</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.266" y="195.667">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="396.416" cy="201.167" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.416" y="202.667">citationref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.266" y="202.667">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="396.416" cy="208.167" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="400.416" y="209.667">noteref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="447.266" y="209.667">ID[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="268" y="69.4166" width="99.7" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="268" y="69.4166" width="99.7" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="317.85" y="77.4166">EventRef</text>
+    <rect style="fill: #ffffff" x="268" y="81.4166" width="99.7" height="39"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="268" y="81.4166" width="99.7" height="39"/>
+    <ellipse style="fill: #000000" cx="272.5" cy="86.9166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="276.5" y="88.4166">hlink</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="316.65" y="88.4166">ID</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="272.5" cy="93.9166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="276.5" y="95.4166">priv</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="316.65" y="95.4166">boolean</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="272.5" cy="100.917" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="276.5" y="102.417">role</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="316.65" y="102.417">EventRoleType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="272.5" cy="107.917" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="276.5" y="109.417">attribute</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="316.65" y="109.417">Attribute[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="272.5" cy="114.917" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="276.5" y="116.417">noteref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="316.65" y="116.417">ID[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="277.834" y="266.334" width="103.05" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="277.834" y="266.334" width="103.05" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="329.359" y="274.334">ChildRef</text>
+    <rect style="fill: #ffffff" x="277.834" y="278.334" width="103.05" height="46"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="277.834" y="278.334" width="103.05" height="46"/>
+    <ellipse style="fill: #000000" cx="282.334" cy="283.834" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.334" y="285.334">hlink</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.184" y="285.334">ID</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="282.334" cy="290.834" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.334" y="292.334">priv</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.184" y="292.334">boolean</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="282.334" cy="297.834" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.334" y="299.334">mrel</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.184" y="299.334">ChildRefType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="282.334" cy="304.834" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.334" y="306.334">frel</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.184" y="306.334">ChildRefType</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="282.334" cy="311.834" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.334" y="313.334">citationref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.184" y="313.334">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="282.334" cy="318.834" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.334" y="320.334">noteref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.184" y="320.334">ID[]</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="278.166" y="205.666" width="86.3" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="278.166" y="205.666" width="86.3" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="321.316" y="213.666">PersonRef</text>
+    <rect style="fill: #ffffff" x="278.166" y="217.666" width="86.3" height="39"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="278.166" y="217.666" width="86.3" height="39"/>
+    <ellipse style="fill: #000000" cx="282.666" cy="223.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.666" y="224.666">hlink</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.516" y="224.666">ID</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="282.666" cy="230.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.666" y="231.666">priv</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.516" y="231.666">boolean</text>
+    <ellipse style="fill: #000000" cx="282.666" cy="237.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.666" y="238.666">rel</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.516" y="238.666">string</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="282.666" cy="244.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.666" y="245.666">citationref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.516" y="245.666">ID[]</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="282.666" cy="251.166" rx="2" ry="2"/>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="286.666" y="252.666">noteref</text>
+    <text font-size="5.6" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="333.516" y="252.666">ID[]</text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="144.167,137.5 131.167,137.5 131.167,234.166 144.5,234.166 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="144.167,144.5 137.833,144.5 137.833,234.166 144.5,234.166 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="250.9,291.166 265.332,291.166 265.332,272.334 277.834,272.334 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="367.7,86.9166 380.813,86.9166 380.813,87 392.416,87 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="144.167,66.5 8.252,66.5 8.252,256.166 144.5,256.166 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="144.167,66.5 1.002,66.5 1.002,263.166 144.5,263.166 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="380.884,283.834 513.144,283.834 513.144,66.5 243.867,66.5 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="243.867,151.5 262.332,151.5 262.332,211.666 278.166,211.666 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="364.466,223.166 506.144,223.166 506.144,66.5 243.867,66.5 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="367.7,107.917 379.582,107.917 379.582,168.667 391.916,168.667 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="243.867,95.5 260.638,95.5 260.638,75.4166 268,75.4166 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="243.867,123.5 324.5,123.5 324.5,168.667 391.916,168.667 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="112.683,123 136.5,123 136.5,102.5 144.167,102.5 "/>
+  <g>
+    <rect style="fill: #ffffff" x="65.304" y="299.667" width="35.7" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="65.304" y="299.667" width="35.7" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="83.154" y="307.667">LdsOrd</text>
+    <rect style="fill: #ffffff" x="65.304" y="311.667" width="35.7" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="65.304" y="311.667" width="35.7" height="4"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="64.9706" y="321.333" width="42.95" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="64.9706" y="321.333" width="42.95" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="86.4456" y="329.333">Attribute</text>
+    <rect style="fill: #ffffff" x="64.9706" y="333.333" width="42.95" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="64.9706" y="333.333" width="42.95" height="4"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="64.9706" y="278.667" width="42.55" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="64.9706" y="278.667" width="42.55" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="86.2456" y="286.667">EventRef</text>
+    <rect style="fill: #ffffff" x="64.9706" y="290.667" width="42.55" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="64.9706" y="290.667" width="42.55" height="4"/>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="101.004,305.667 128.833,305.667 128.833,277.166 144.5,277.166 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="107.521,284.667 120.167,284.667 120.167,270.166 144.5,270.166 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="107.921,327.333 136.167,327.333 136.167,298.166 144.5,298.166 "/>
+  <g>
+    <rect style="fill: #ffffff" x="16.3873" y="278.667" width="30.45" height="12"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="16.3873" y="278.667" width="30.45" height="12"/>
+    <text font-size="6.4" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="31.6123" y="286.667">Event</text>
+    <rect style="fill: #ffffff" x="16.3873" y="290.667" width="30.45" height="4"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" x="16.3873" y="290.667" width="30.45" height="4"/>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #0000ff" points="46.8373,284.667 54.6687,284.667 54.6687,284.667 64.9706,284.667 "/>
+</svg>

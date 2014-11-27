@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE database PUBLIC "-//Gramps//DTD Gramps XML 1.6.0//EN"
+"http://gramps-project.org/xml/1.6.0/grampsxml.dtd">
+<database xmlns="http://gramps-project.org/xml/1.6.0/">
+  <header>
+    <created date="2014-11-28" version="4.1.2"/>
+    <researcher>
+    </researcher>
+  </header>
+  <events>
+    <event handle="_ce38165640876127041967c66fa" change="1417126801" id="E0000">
+      <type>Birth</type>
+      <dateval val="1491-06-28"/>
+      <place hlink="_ce3815ff072717fa1491f27aa1d"/>
+    </event>
+    <event handle="_ce38174668148a43c7652db17d1" change="1417126899" id="E0001">
+      <type>Death</type>
+      <dateval val="1547-01-28"/>
+      <place hlink="_ce38173c2291ef0d9d6dfb0b3e3"/>
+    </event>
+    <event handle="_ce381ab5309bd2a420ff648bda" change="1417127259" id="E0002">
+      <type>Birth</type>
+      <dateval val="1485-12-16"/>
+      <place hlink="_ce381aa2a2f53201b44e0bbce0c"/>
+    </event>
+    <event handle="_ce381b1133660553f616fcc45d0" change="1417127297" id="E0003">
+      <type>Death</type>
+      <dateval val="1536-01-07"/>
+      <place hlink="_ce381b0a30e370c997b6fad770e"/>
+    </event>
+    <event handle="_ce381ec286ee802889fe2de4d" change="1417127684" id="E0004">
+      <type>Marriage</type>
+      <dateval val="1509-06-11"/>
+      <place hlink="_ce3815ff072717fa1491f27aa1d"/>
+    </event>
+    <event handle="_ce381f4fdf874fc507cd68a8918" change="1417127742" id="E0005">
+      <type>Annulment</type>
+      <dateval val="1533-05-23"/>
+    </event>
+    <event handle="_ce38225e54348e8831a99b9141a" change="1417128063" id="E0006">
+      <type>Birth</type>
+      <dateval val="1510-01-31"/>
+      <description>Miscarriage</description>
+    </event>
+    <event handle="_ce382277ea21ccc6394e42a09e9" change="1417128073" id="E0007">
+      <type>Death</type>
+      <dateval val="1510-01-31"/>
+    </event>
+    <event handle="_ce38231271d60b8502df90e49e5" change="1417128136" id="E0008">
+      <type>Birth</type>
+      <dateval val="1511-01-01"/>
+    </event>
+    <event handle="_ce38232ba8d3afae41e418ab138" change="1417128147" id="E0009">
+      <type>Death</type>
+      <dateval val="1511-02-22"/>
+    </event>
+    <event handle="_ce3823a380924b11b12ce11f70c" change="1417128196" id="E0010">
+      <type>Birth</type>
+      <dateval val="1513-11"/>
+    </event>
+    <event handle="_ce3823b90b920682314b80c7061" change="1417128205" id="E0011">
+      <type>Death</type>
+      <dateval val="1513-11"/>
+    </event>
+    <event handle="_ce38240776572ae76797c714b9" change="1417128237" id="E0012">
+      <type>Birth</type>
+      <dateval val="1514-12"/>
+    </event>
+    <event handle="_ce38241bad64a12b796dd48508b" change="1417128245" id="E0013">
+      <type>Death</type>
+      <dateval val="1514-12"/>
+    </event>
+    <event handle="_ce3824fbe5017c2e17733f265e7" change="1417128337" id="E0014">
+      <type>Birth</type>
+      <dateval val="1516-02-18"/>
+    </event>
+    <event handle="_ce382551dee219032b068f9956" change="1417128372" id="E0015">
+      <type>Death</type>
+      <dateval val="1558-11-17"/>
+    </event>
+    <event handle="_ce3825eb3a960409318113444fd" change="1417128435" id="E0016">
+      <type>Birth</type>
+      <dateval val="1518-11"/>
+      <description>Stillborn</description>
+    </event>
+    <event handle="_ce38260e8a82af06673bf82b156" change="1417128449" id="E0017">
+      <type>Death</type>
+      <dateval val="1518-11"/>
+    </event>
+    <event handle="_ce3827cc1ac5a91af9c92c0647d" change="1417128632" id="E0018">
+      <type>Birth</type>
+      <daterange start="1501" stop="1507"/>
+    </event>
+    <event handle="_ce3827fe51a2f5734a10071a3bd" change="1417128652" id="E0019">
+      <type>Death</type>
+      <dateval val="1536-05-19"/>
+      <description>Beheaded</description>
+    </event>
+    <event handle="_ce382a227ab5e6f0fdfea90ea6a" change="1417128877" id="E0020">
+      <type>Marriage</type>
+      <dateval val="1533-01-25"/>
+      <place hlink="_ce3829ff2b550d060d3c11fff0f"/>
+    </event>
+    <event handle="_ce382a4bf6b6b6d304d9bed2bc8" change="1417128894" id="E0021">
+      <type>Annulment</type>
+      <dateval val="1536-05-17"/>
+    </event>
+    <event handle="_ce382b7e4a21f3ab39439176363" change="1417129019" id="E0022">
+      <type>Birth</type>
+      <dateval val="1533-09-07"/>
+    </event>
+    <event handle="_ce382bb968e372830b28ddfd2fc" change="1417129044" id="E0023">
+      <type>Death</type>
+      <dateval val="1603-03-24"/>
+    </event>
+    <event handle="_ce382ca20b92ec0ebd0cd614c2d" change="1417129139" id="E0024">
+      <type>Birth</type>
+      <daterange start="1534-08" stop="1534-09"/>
+    </event>
+    <event handle="_ce382cb3e5c3d3e294964f83ee0" change="1417129146" id="E0025">
+      <type>Death</type>
+      <daterange start="1534-08" stop="1534-09"/>
+    </event>
+    <event handle="_ce382d015b523290955b1559f8c" change="1417129198" id="E0026">
+      <type>Birth</type>
+      <dateval val="1536-01-29"/>
+    </event>
+    <event handle="_ce382d1989720b0d86729574091" change="1417129203" id="E0027">
+      <type>Death</type>
+      <dateval val="1536-01-29"/>
+    </event>
+    <event handle="_ce382de99005be43515f8ebd380" change="1417129273" id="E0028">
+      <type>Birth</type>
+      <dateval val="1508"/>
+    </event>
+    <event handle="_ce382e059206d88aa015d577ce" change="1417129285" id="E0029">
+      <type>Death</type>
+      <dateval val="1537-10-24"/>
+    </event>
+    <event handle="_ce382f8a1a51b816ea3a3ce647" change="1417129444" id="E0030">
+      <type>Marriage</type>
+      <dateval val="1536-05-30"/>
+      <place hlink="_ce382f8763d77cc594acf275fa5"/>
+    </event>
+    <event handle="_ce38300d642645e78c99b97574b" change="1417129497" id="E0031">
+      <type>Birth</type>
+      <dateval val="1537-10-12"/>
+    </event>
+    <event handle="_ce38302af616a223761774a755" change="1417129510" id="E0032">
+      <type>Death</type>
+      <dateval val="1553-07-06"/>
+    </event>
+    <event handle="_ce38326ab81608f136d40348aa9" change="1417129745" id="E0033">
+      <type>Birth</type>
+      <dateval val="1515-09-22"/>
+    </event>
+    <event handle="_ce383282961607b63a1b7d0dac9" change="1417129755" id="E0034">
+      <type>Death</type>
+      <dateval val="1557-07-16"/>
+    </event>
+    <event handle="_ce38335625a2bdd6c0426055ef" change="1417129842" id="E0035">
+      <type>Marriage</type>
+      <dateval val="1540-01-06"/>
+    </event>
+    <event handle="_ce383388a795d5a3b8ce29ec099" change="1417129863" id="E0036">
+      <type>Annulment</type>
+      <dateval val="1540-07-09"/>
+    </event>
+    <event handle="_ce3835ebff8614922e5a9a1a219" change="1417130113" id="E0037">
+      <type>Birth</type>
+      <dateval val="1521"/>
+    </event>
+    <event handle="_ce38361de1678d25fea05cdcba9" change="1417130133" id="E0038">
+      <type>Death</type>
+      <dateval val="1542-02-13"/>
+      <description>Beheaded</description>
+    </event>
+    <event handle="_ce3837257e0537d8c925c253038" change="1417130241" id="E0039">
+      <type>Marriage</type>
+      <dateval val="1540-07-28"/>
+      <place hlink="_ce38371c2873c9bd0de69317180"/>
+    </event>
+    <event handle="_ce38382c3e8640566494bb3a452" change="1417130349" id="E0040">
+      <type>Birth</type>
+      <dateval val="1512"/>
+    </event>
+    <event handle="_ce38385268638791ff7902d8e49" change="1417130365" id="E0041">
+      <type>Death</type>
+      <dateval val="1548-09-05"/>
+    </event>
+    <event handle="_ce383917d92395ee008becccd22" change="1417130445" id="E0042">
+      <type>Marriage</type>
+      <dateval val="1543-07-12"/>
+      <place hlink="_ce38390c9e939b6c5f1a484f1f8"/>
+    </event>
+    <event handle="_ce383a7f9283fee4d4557e8e20e" change="1417130593" id="E0043">
+      <type>Birth</type>
+      <daterange start="1498" stop="1502"/>
+    </event>
+    <event handle="_ce383aaa8f724d356b2f777f82c" change="1417130610" id="E0044">
+      <type>Death</type>
+      <daterange start="1539" stop="1540"/>
+    </event>
+    <event handle="_ce383b984b02e226ae9b03ed079" change="1417130708" id="E0045">
+      <type>Birth</type>
+      <dateval val="1519-06-15"/>
+    </event>
+    <event handle="_ce383be78ce4292cf7967ce792c" change="1417130740" id="E0046">
+      <type>Death</type>
+      <dateval val="1536-07-23"/>
+    </event>
+    <event handle="_ce383f69d83467dfbed6568719c" change="1417131108" id="E0047">
+      <type>Marriage</type>
+      <dateval val="1554"/>
+    </event>
+  </events>
+  <people>
+    <person handle="_ce381362115ba4cd7dc2d22d6f" change="1417130770" id="I0000">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Henry</first>
+        <surname></surname>
+        <suffix>VIII</suffix>
+      </name>
+      <eventref hlink="_ce38165640876127041967c66fa" role="Primary"/>
+      <eventref hlink="_ce38174668148a43c7652db17d1" role="Primary"/>
+      <childof hlink="_ce38186327c42337a3fa247869b"/>
+      <parentin hlink="_ce381e4301328c459673aad75ab"/>
+      <parentin hlink="_ce3829283e77b3ba0a6887b9bde"/>
+      <parentin hlink="_ce382da3cf044ff834233b551e3"/>
+      <parentin hlink="_ce3831cd3fd6dd11faacf8452c6"/>
+      <parentin hlink="_ce383596cbf3d0f13bea341c37c"/>
+      <parentin hlink="_ce38375826b51c1646d2571ed70"/>
+      <parentin hlink="_ce383a1cf5368e13af7d5c454e"/>
+    </person>
+    <person handle="_ce38180b0c42874f11b2262a70" change="1417127059" id="I0001">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Henry</first>
+        <surname></surname>
+        <suffix>VII</suffix>
+      </name>
+      <parentin hlink="_ce38186327c42337a3fa247869b"/>
+    </person>
+    <person handle="_ce3818408b1736eb23c7ec190ba" change="1417127059" id="I0002">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Elizabeth</first>
+        <surname></surname>
+        <suffix>of York</suffix>
+      </name>
+      <parentin hlink="_ce38186327c42337a3fa247869b"/>
+    </person>
+    <person handle="_ce381b3bc8015c6cea433ecb1dd" change="1417128523" id="I0003">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Catherine</first>
+        <surname></surname>
+        <suffix>of Aragon</suffix>
+      </name>
+      <eventref hlink="_ce381ab5309bd2a420ff648bda" role="Primary"/>
+      <eventref hlink="_ce381b1133660553f616fcc45d0" role="Primary"/>
+      <parentin hlink="_ce381e4301328c459673aad75ab"/>
+    </person>
+    <person handle="_ce38228582d6feb9a0d8fdc10c" change="1417128523" id="I0004">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>[Unnamed]</first>
+        <surname></surname>
+      </name>
+      <eventref hlink="_ce38225e54348e8831a99b9141a" role="Primary"/>
+      <eventref hlink="_ce382277ea21ccc6394e42a09e9" role="Primary"/>
+      <childof hlink="_ce381e4301328c459673aad75ab"/>
+    </person>
+    <person handle="_ce38232f50862dacb9cc7d8e2cd" change="1417128523" id="I0005">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Henry</first>
+        <surname></surname>
+        <suffix>Duke of Cornwall</suffix>
+      </name>
+      <eventref hlink="_ce38231271d60b8502df90e49e5" role="Primary"/>
+      <eventref hlink="_ce38232ba8d3afae41e418ab138" role="Primary"/>
+      <childof hlink="_ce381e4301328c459673aad75ab"/>
+    </person>
+    <person handle="_ce3823bc1d447910bf1e2070043" change="1417128523" id="I0006">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>[Unnamed]</first>
+        <surname></surname>
+      </name>
+      <eventref hlink="_ce3823a380924b11b12ce11f70c" role="Primary"/>
+      <eventref hlink="_ce3823b90b920682314b80c7061" role="Primary"/>
+      <childof hlink="_ce381e4301328c459673aad75ab"/>
+    </person>
+    <person handle="_ce3824204a1686fa9a8f464c85b" change="1417128523" id="I0007">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Henry</first>
+        <surname></surname>
+        <suffix>Duke of Cornwall</suffix>
+      </name>
+      <eventref hlink="_ce38240776572ae76797c714b9" role="Primary"/>
+      <eventref hlink="_ce38241bad64a12b796dd48508b" role="Primary"/>
+      <childof hlink="_ce381e4301328c459673aad75ab"/>
+    </person>
+    <person handle="_ce3825591e83e2f56213ae3c79b" change="1417131119" id="I0008">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Mary</first>
+        <surname></surname>
+        <suffix>I</suffix>
+      </name>
+      <eventref hlink="_ce3824fbe5017c2e17733f265e7" role="Primary"/>
+      <eventref hlink="_ce382551dee219032b068f9956" role="Primary"/>
+      <childof hlink="_ce381e4301328c459673aad75ab"/>
+      <parentin hlink="_ce383ec632f6d3e2a91638adaf2"/>
+    </person>
+    <person handle="_ce3826111542ef68cf26e35eac8" change="1417128523" id="I0009">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>[Unnamed]</first>
+        <surname></surname>
+      </name>
+      <eventref hlink="_ce3825eb3a960409318113444fd" role="Primary"/>
+      <eventref hlink="_ce38260e8a82af06673bf82b156" role="Primary"/>
+      <childof hlink="_ce381e4301328c459673aad75ab"/>
+    </person>
+    <person handle="_ce3828043d52217a6b9797e069" change="1417129216" id="I0010">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anne</first>
+        <surname>Boleyn</surname>
+      </name>
+      <eventref hlink="_ce3827cc1ac5a91af9c92c0647d" role="Primary"/>
+      <eventref hlink="_ce3827fe51a2f5734a10071a3bd" role="Primary"/>
+      <parentin hlink="_ce3829283e77b3ba0a6887b9bde"/>
+    </person>
+    <person handle="_ce382bbcfcc2369895f80775870" change="1417133738" id="I0011">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Elizabeth</first>
+        <surname></surname>
+        <suffix>I</suffix>
+      </name>
+      <eventref hlink="_ce382b7e4a21f3ab39439176363" role="Primary"/>
+      <eventref hlink="_ce382bb968e372830b28ddfd2fc" role="Primary"/>
+      <attribute type="Never Married" value=""/>
+      <childof hlink="_ce3829283e77b3ba0a6887b9bde"/>
+    </person>
+    <person handle="_ce382cb8e6420fbe214c1ef32" change="1417129216" id="I0012">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Henry</first>
+        <surname></surname>
+        <suffix>Duke of Cornwall</suffix>
+      </name>
+      <eventref hlink="_ce382ca20b92ec0ebd0cd614c2d" role="Primary"/>
+      <eventref hlink="_ce382cb3e5c3d3e294964f83ee0" role="Primary"/>
+      <childof hlink="_ce3829283e77b3ba0a6887b9bde"/>
+    </person>
+    <person handle="_ce382d4117054205c4b59b6780f" change="1417129216" id="I0013">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>[Unnamed]</first>
+        <surname></surname>
+      </name>
+      <eventref hlink="_ce382d015b523290955b1559f8c" role="Primary"/>
+      <eventref hlink="_ce382d1989720b0d86729574091" role="Primary"/>
+      <childof hlink="_ce3829283e77b3ba0a6887b9bde"/>
+    </person>
+    <person handle="_ce382e109ba4ed0a92d0a2c5271" change="1417129587" id="I0014">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Jane</first>
+        <surname>Seymour</surname>
+      </name>
+      <eventref hlink="_ce382de99005be43515f8ebd380" role="Primary"/>
+      <eventref hlink="_ce382e059206d88aa015d577ce" role="Primary"/>
+      <parentin hlink="_ce382da3cf044ff834233b551e3"/>
+    </person>
+    <person handle="_ce38302e7ac2873f00308368890" change="1417133752" id="I0015">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Edward</first>
+        <surname></surname>
+        <suffix>VI</suffix>
+      </name>
+      <eventref hlink="_ce38300d642645e78c99b97574b" role="Primary"/>
+      <eventref hlink="_ce38302af616a223761774a755" role="Primary"/>
+      <attribute type="Never Married" value=""/>
+      <childof hlink="_ce382da3cf044ff834233b551e3"/>
+    </person>
+    <person handle="_ce3832889af5613432fb5fa3154" change="1417129864" id="I0016">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Anne</first>
+        <surname></surname>
+        <suffix>of Cleves</suffix>
+      </name>
+      <eventref hlink="_ce38326ab81608f136d40348aa9" role="Primary"/>
+      <eventref hlink="_ce383282961607b63a1b7d0dac9" role="Primary"/>
+      <parentin hlink="_ce3831cd3fd6dd11faacf8452c6"/>
+    </person>
+    <person handle="_ce383642951a5775e35ed9c84f" change="1417130248" id="I0017">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Catherine</first>
+        <surname>Howard</surname>
+      </name>
+      <eventref hlink="_ce3835ebff8614922e5a9a1a219" role="Primary"/>
+      <eventref hlink="_ce38361de1678d25fea05cdcba9" role="Primary"/>
+      <parentin hlink="_ce383596cbf3d0f13bea341c37c"/>
+    </person>
+    <person handle="_ce3838585e32cb0983f15af4ae5" change="1417130451" id="I0018">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Catherine</first>
+        <surname>Parr</surname>
+      </name>
+      <eventref hlink="_ce38382c3e8640566494bb3a452" role="Primary"/>
+      <eventref hlink="_ce38385268638791ff7902d8e49" role="Primary"/>
+      <parentin hlink="_ce38375826b51c1646d2571ed70"/>
+    </person>
+    <person handle="_ce383b2541e7b4ee6965321bbb" change="1417130770" id="I0019">
+      <gender>F</gender>
+      <name type="Birth Name">
+        <first>Elizabeth</first>
+        <surname>Blount</surname>
+      </name>
+      <eventref hlink="_ce383a7f9283fee4d4557e8e20e" role="Primary"/>
+      <eventref hlink="_ce383aaa8f724d356b2f777f82c" role="Primary"/>
+      <parentin hlink="_ce383a1cf5368e13af7d5c454e"/>
+    </person>
+    <person handle="_ce383c22ca6533a4487a5024d35" change="1417130770" id="I0020">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Henry</first>
+        <surname>FitzRoy</surname>
+      </name>
+      <eventref hlink="_ce383b984b02e226ae9b03ed079" role="Primary"/>
+      <eventref hlink="_ce383be78ce4292cf7967ce792c" role="Primary"/>
+      <childof hlink="_ce383a1cf5368e13af7d5c454e"/>
+    </person>
+    <person handle="_ce383f48ff06b823c657ca42bb2" change="1417131119" id="I0021">
+      <gender>M</gender>
+      <name type="Birth Name">
+        <first>Phillip</first>
+        <surname></surname>
+        <suffix>II of Spain</suffix>
+      </name>
+      <parentin hlink="_ce383ec632f6d3e2a91638adaf2"/>
+    </person>
+  </people>
+  <families>
+    <family handle="_ce38186327c42337a3fa247869b" change="1417127059" id="F0000">
+      <rel type="Married"/>
+      <father hlink="_ce38180b0c42874f11b2262a70"/>
+      <mother hlink="_ce3818408b1736eb23c7ec190ba"/>
+      <childref hlink="_ce381362115ba4cd7dc2d22d6f"/>
+    </family>
+    <family handle="_ce381e4301328c459673aad75ab" change="1417128523" id="F0001">
+      <rel type="Married"/>
+      <father hlink="_ce381362115ba4cd7dc2d22d6f"/>
+      <mother hlink="_ce381b3bc8015c6cea433ecb1dd"/>
+      <eventref hlink="_ce381ec286ee802889fe2de4d" role="Family"/>
+      <eventref hlink="_ce381f4fdf874fc507cd68a8918" role="Family"/>
+      <childref hlink="_ce38228582d6feb9a0d8fdc10c"/>
+      <childref hlink="_ce38232f50862dacb9cc7d8e2cd"/>
+      <childref hlink="_ce3823bc1d447910bf1e2070043"/>
+      <childref hlink="_ce3824204a1686fa9a8f464c85b"/>
+      <childref hlink="_ce3825591e83e2f56213ae3c79b"/>
+      <childref hlink="_ce3826111542ef68cf26e35eac8"/>
+    </family>
+    <family handle="_ce3829283e77b3ba0a6887b9bde" change="1417129216" id="F0002">
+      <rel type="Married"/>
+      <father hlink="_ce381362115ba4cd7dc2d22d6f"/>
+      <mother hlink="_ce3828043d52217a6b9797e069"/>
+      <eventref hlink="_ce382a227ab5e6f0fdfea90ea6a" role="Family"/>
+      <eventref hlink="_ce382a4bf6b6b6d304d9bed2bc8" role="Family"/>
+      <childref hlink="_ce382bbcfcc2369895f80775870"/>
+      <childref hlink="_ce382cb8e6420fbe214c1ef32"/>
+      <childref hlink="_ce382d4117054205c4b59b6780f"/>
+    </family>
+    <family handle="_ce382da3cf044ff834233b551e3" change="1417129587" id="F0003">
+      <rel type="Married"/>
+      <father hlink="_ce381362115ba4cd7dc2d22d6f"/>
+      <mother hlink="_ce382e109ba4ed0a92d0a2c5271"/>
+      <eventref hlink="_ce382f8a1a51b816ea3a3ce647" role="Family"/>
+      <childref hlink="_ce38302e7ac2873f00308368890"/>
+    </family>
+    <family handle="_ce3831cd3fd6dd11faacf8452c6" change="1417133807" id="F0004">
+      <rel type="Married"/>
+      <father hlink="_ce381362115ba4cd7dc2d22d6f"/>
+      <mother hlink="_ce3832889af5613432fb5fa3154"/>
+      <eventref hlink="_ce38335625a2bdd6c0426055ef" role="Family"/>
+      <eventref hlink="_ce383388a795d5a3b8ce29ec099" role="Family"/>
+      <attribute type="No Children" value=""/>
+    </family>
+    <family handle="_ce383596cbf3d0f13bea341c37c" change="1417133825" id="F0005">
+      <rel type="Married"/>
+      <father hlink="_ce381362115ba4cd7dc2d22d6f"/>
+      <mother hlink="_ce383642951a5775e35ed9c84f"/>
+      <eventref hlink="_ce3837257e0537d8c925c253038" role="Family"/>
+      <attribute type="No Children" value=""/>
+    </family>
+    <family handle="_ce38375826b51c1646d2571ed70" change="1417133836" id="F0006">
+      <rel type="Married"/>
+      <father hlink="_ce381362115ba4cd7dc2d22d6f"/>
+      <mother hlink="_ce3838585e32cb0983f15af4ae5"/>
+      <eventref hlink="_ce383917d92395ee008becccd22" role="Family"/>
+      <attribute type="No Children" value=""/>
+    </family>
+    <family handle="_ce383a1cf5368e13af7d5c454e" change="1417130770" id="F0007">
+      <rel type="Unmarried"/>
+      <father hlink="_ce381362115ba4cd7dc2d22d6f"/>
+      <mother hlink="_ce383b2541e7b4ee6965321bbb"/>
+      <childref hlink="_ce383c22ca6533a4487a5024d35"/>
+    </family>
+    <family handle="_ce383ec632f6d3e2a91638adaf2" change="1417133855" id="F0008">
+      <rel type="Married"/>
+      <father hlink="_ce383f48ff06b823c657ca42bb2"/>
+      <mother hlink="_ce3825591e83e2f56213ae3c79b"/>
+      <eventref hlink="_ce383f69d83467dfbed6568719c" role="Family"/>
+      <attribute type="No Children" value=""/>
+    </family>
+  </families>
+  <places>
+    <placeobj handle="_ce381403fff6f56dbb2f5823707" change="1417126558" id="P0000" name="England" type="Country">
+      <ptitle>England</ptitle>
+    </placeobj>
+    <placeobj handle="_ce3814396ae7a1e7e55508632b1" change="1417126637" id="P0001" name="London" type="County">
+      <ptitle>London, England</ptitle>
+      <placeref hlink="_ce381403fff6f56dbb2f5823707"/>
+    </placeobj>
+    <placeobj handle="_ce38147a8dc2c925365bab093b0" change="1417126644" id="P0002" name="Greenwich" type="Borough">
+      <ptitle>Greenwich, London, England</ptitle>
+      <placeref hlink="_ce3814396ae7a1e7e55508632b1"/>
+    </placeobj>
+    <placeobj handle="_ce3815ff072717fa1491f27aa1d" change="1417126765" id="P0003" name="Greenwich Palace" type="Palace">
+      <ptitle>Greenwich Palace, Greenwich, London, England</ptitle>
+      <placeref hlink="_ce38147a8dc2c925365bab093b0"/>
+    </placeobj>
+    <placeobj handle="_ce38173c2291ef0d9d6dfb0b3e3" change="1417130869" id="P0004" name="Palace of Whitehall" type="Palace">
+      <ptitle>Palace of Whitehall, London, England</ptitle>
+      <placeref hlink="_ce3814396ae7a1e7e55508632b1"/>
+    </placeobj>
+    <placeobj handle="_ce381aa2a2f53201b44e0bbce0c" change="1417127400" id="P0005" name="Archbishop's Palace" type="Palace">
+      <ptitle>Archbishop's Palace, Alcalá de Henares, Spain</ptitle>
+      <placeref hlink="_ce381bd48d860484abb7c7ff361"/>
+    </placeobj>
+    <placeobj handle="_ce381b0a30e370c997b6fad770e" change="1417127470" id="P0006" name="Kimbolton Castle" type="Castle">
+      <ptitle>Kimbolton Castle, Cambridgeshire, England</ptitle>
+      <placeref hlink="_ce381c91d9364f810a32450bdc"/>
+    </placeobj>
+    <placeobj handle="_ce381b6c5fa7a21d411a7f6f8e5" change="1417127334" id="P0007" name="Spain" type="Country">
+      <ptitle>Spain</ptitle>
+    </placeobj>
+    <placeobj handle="_ce381bd48d860484abb7c7ff361" change="1417127377" id="P0008" name="Alcalá de Henares" type="City">
+      <ptitle>Alcalá de Henares, Spain</ptitle>
+      <placeref hlink="_ce381b6c5fa7a21d411a7f6f8e5"/>
+    </placeobj>
+    <placeobj handle="_ce381c91d9364f810a32450bdc" change="1417127455" id="P0009" name="Cambridgeshire" type="County">
+      <ptitle>Cambridgeshire, England</ptitle>
+      <placeref hlink="_ce381403fff6f56dbb2f5823707"/>
+    </placeobj>
+    <placeobj handle="_ce3829ff2b550d060d3c11fff0f" change="1417131600" id="P0010" name="Westminster Abbey" type="Church">
+      <ptitle>Westminster Abbey, Westminster, London, England</ptitle>
+      <placeref hlink="_ce383db36488e633a742d3fb13"/>
+    </placeobj>
+    <placeobj handle="_ce382f8763d77cc594acf275fa5" change="1417129443" id="P0011" name="York Place" type="Building">
+      <ptitle>York Place, London, England</ptitle>
+      <placeref hlink="_ce3814396ae7a1e7e55508632b1"/>
+    </placeobj>
+    <placeobj handle="_ce3836fc8485fe199a54002159c" change="1417130225" id="P0012" name="Surrey" type="County">
+      <ptitle>Surrey, England</ptitle>
+      <placeref hlink="_ce381403fff6f56dbb2f5823707"/>
+    </placeobj>
+    <placeobj handle="_ce38371c2873c9bd0de69317180" change="1417130238" id="P0013" name="Oatlands Palace" type="Palace">
+      <ptitle>Oatlands Palace, Surrey, England</ptitle>
+      <placeref hlink="_ce3836fc8485fe199a54002159c"/>
+    </placeobj>
+    <placeobj handle="_ce38390c9e939b6c5f1a484f1f8" change="1417130441" id="P0014" name="Hampton Court Palace" type="Palace">
+      <ptitle>Hampton Court Palace, Surrey, England</ptitle>
+      <placeref hlink="_ce3836fc8485fe199a54002159c"/>
+    </placeobj>
+    <placeobj handle="_ce383db36488e633a742d3fb13" change="1417130929" id="P0015" name="Westminster" type="Borough">
+      <ptitle>Westminster, London, England</ptitle>
+      <placeref hlink="_ce3814396ae7a1e7e55508632b1"/>
+    </placeobj>
+  </places>
+</database>

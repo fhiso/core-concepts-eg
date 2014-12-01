@@ -84,7 +84,7 @@ The concept of events appears to not be well developed. It is said that relation
 
 ## Use Cases
 
-### A Single Person
+### [A Single Person](https://github.com/fhiso/core-concepts-eg/blob/master/Usecases.md#a-single-person)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
@@ -117,6 +117,10 @@ The concept of events appears to not be well developed. It is said that relation
     </person>
 </gedcomx>
 ```
+
+Relationships are top level objects and links to them do not appear inside of the person object.
+
+Marriage events are stored inside of the couple's relationship.
 
 ## Analysis
 

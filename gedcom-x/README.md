@@ -10,6 +10,7 @@ GEDCOM X is a set of open specifications for exchanging genealogical data. The p
     3. [Fact](#fact)
     4. [Event](#event)
 2. [Use Cases](#use-cases)
+    1. [A Single Person](#a-single-person)
 3. [Analysis](#analysis)
 
 ## Model

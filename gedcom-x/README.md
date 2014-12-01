@@ -84,7 +84,39 @@ The concept of events appears to not be well developed. It is said that relation
 
 ## Use Cases
 
-Something in the future hear about how it handles the list of uses cases which we don't have yet.
+### A Single Person
+
+```xml
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gedcomx xmlns="http://gedcomx.org/v1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <person id="PPPJ-MYZ">
+        <living>false</living>
+        <gender type="http://gedcomx.org/Male"/>
+        <name type="http://gedcomx.org/BirthName" id="name-id">
+            <preferred>true</preferred>
+            <nameForm>
+                <fullText>Henry VIII</fullText>
+            </nameForm>
+        </name>
+        <fact type="http://gedcomx.org/Birth" id="born">
+            <date>
+                <original>28 June 1491</original>
+            </date>
+            <place>
+                <original>Greenwich Palace, Greenwich, London, England</original>
+            </place>
+        </fact>
+        <fact type="http://gedcomx.org/Death" id="death">
+            <date>
+                <original>28 January 1547</original>
+            </date>
+            <place>
+                <original>Palace of Whitehall, London, England</original>
+            </place>
+        </fact>
+    </person>
+</gedcomx>
+```
 
 ## Analysis
 

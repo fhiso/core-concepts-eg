@@ -24,6 +24,7 @@
             <place>
                 <original>Palace of Whitehall, London, England</original>
             </place>
+            <qualifier name="http://gedcomx.org/Age">55</qualifier>
         </fact>
     </person>
 </gedcomx>

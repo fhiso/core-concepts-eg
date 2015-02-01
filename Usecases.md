@@ -53,7 +53,7 @@ Data for the use cases was extracted from the Wikipedia articles on [Henry VIII]
       <p><strong>Henry VIII</strong></p>
       <em>Sex</em>: Male<br>
       <em>Born</em>: 28 June 1491 in Greenwich Palace, Greenwich, London, England<br>
-      <em>Died</em>: 28 January 1547 in Palace of Whitehall, London, England
+      <em>Died</em>: 28 January 1547 in Palace of Whitehall, London, England, aged 55
     </td>
     <td>
       <p><strong>Parents</strong></p>

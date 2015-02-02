@@ -11,10 +11,10 @@
 1 NAME Henry VIII
 1 SEX M
 1 BIRT 
-2 DATE 28 JUN 1491
+2 DATE @#JULIAN@ 28 JUN 1491
 2 PLAC Greenwich Palace, London, England
 1 DEAT
-2 DATE 28 JAN 1547
+2 DATE @#JULIAN@ 28 JAN 1547
 2 PLAC Palace of Whitehall, London, England
 2 AGE 55
 0 TRLR
